@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/CapApp/app/src/main/res/drawable/ic_nbastatementedition_hawks_1000x1000_2.xml" value="0.18333333333333332" />
         <entry key="..\:/Users/user/AndroidStudioProjects/CapApp/app/src/main/res/layout/activity_main.xml" value="0.165625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/CapApp/app/src/main/res/layout/fragment_first.xml" value="0.3333333333333333" />
       </map>
     </option>
   </component>
